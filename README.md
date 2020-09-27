@@ -10,4 +10,4 @@ the stream data is passed to the kafka producer topic, then consumer consumes da
 2) Run the KafkaProducer.py file
 3) Run the KafkaConsumerMongo.py file
 
-#NOTE: create kafka topic, mongodb database and collection first before running the files
+## NOTE: create kafka topic, mongodb database and collection first before running the files
